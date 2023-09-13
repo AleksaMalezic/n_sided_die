@@ -1,6 +1,6 @@
 # N sided die simulation
 This is a C++ die rolling simulator. This project provides a simple and entertaining way to simulate rolling die using C++. Whether you're a programming enthusiast looking to explore C++ or just want to have some virtual die-rolling fun, this program is a great starting point.
-## Description and tutorial on how to use the code
+## Description and tutorial on how to use the project
 - In this project you can roll any die you want, any times.
 - You can use it by cloning the repository and running it on your local IDE.
 - When you run the program, you will be asked how many sides does the die have, you should any input positive integer number.
