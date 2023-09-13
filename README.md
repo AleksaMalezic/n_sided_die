@@ -8,7 +8,7 @@
 - After that, you will be asked to imput number of times you want your dice to be rolled, with the same restriction as above.
 - If you choose to roll once, you will get a visual representation of a dice. 
 - However, if you want roll it multiple times, you will get results of every throw with the average value afterwards. 
-- Feel free to contribute and review the project. 🎲
+- Feel free to contribute and review the project. 🎲a
 
 
 # C++ Dice Rolling Simulator
