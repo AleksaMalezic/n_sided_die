@@ -8,3 +8,4 @@ This is a C++ die rolling simulator. This project provides a simple and entertai
 - If you choose to roll 6-side die once, you will get a visual representation of it. 
 - However, if you want roll it multiple times, you will get results of every throw with the average value afterwards. 
 - Feel free to contribute and review this project. 🎲
+- I run this code using Visual Studio. You can compile it using cmd on windows or using terminal on Mac and Linux.
